@@ -1,0 +1,4 @@
+Base elements are Fire, Water, Earth, Air. Combine these and do whatever you want! RULES: Only use already made elements for the combinations(press control-f to look if an element exists or not).
+
+
+
